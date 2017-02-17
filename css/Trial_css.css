@@ -10,7 +10,7 @@ div.title{
 
 
 h1{
-    font-weight: 600;
+    font-weight: 300;
     font-size: 2em;
     max-width: 800px;
     text-align: center;
@@ -22,32 +22,24 @@ h1{
 }
 
 h2{
-    font-weight: 400;
+    font-weight: 200;
     font-size: 1.5em;
     text-align: center;
     color: #FFFFFF;
     margin: auto;
 }
 
-h3{
-<<<<<<< HEAD
+h3{ 
   font-size: 1.2em;
-    font-weight: 500;
-=======
-    font-size: 1.2em;
-    font-weight: 300;
->>>>>>> 3792df4f8350427a03b56497fd7221625dbf7cab
+    font-weight: 200;
     max-width: 800px;
     text-align: center;
     margin-top: 5px;
     margin-right: auto;
     margin-left: auto;
     margin-bottom: auto;
-<<<<<<< HEAD
     color: #ffffff;
-=======
-    color: #FFFFFF;
->>>>>>> 3792df4f8350427a03b56497fd7221625dbf7cab
+
 }
 
 h4{
