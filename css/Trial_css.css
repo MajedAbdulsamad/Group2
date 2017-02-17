@@ -120,3 +120,9 @@ li.assignmentLink > a:hover{
     background-color: #FF33FF; 
 }
 
+img.bioImage3{
+   float: left; 
+   width: 32.25%; 
+   margin-right: 1%; 
+   margin-bottom: 0.5em;
+}
