@@ -1,6 +1,6 @@
 body{
-    font-family: 'STitillium+Web', Verdana, Helvetica, Arial, sans-serif;
-    background-color: #000000
+    font-family: 'Source Sans Pro', Verdana, Helvetica, Arial, sans-serif;
+    background-color: #7a0000
 }
 
 div.title{
@@ -8,62 +8,49 @@ div.title{
     height: 100%;
 }
 
-
 h1{
+  color: #ffffff;
     font-weight: 600;
     font-size: 2em;
     max-width: 800px;
     text-align: center;
-    margin-top: auto;
+    margin: 25px, 25px;
     margin-right: auto;
     margin-left: auto;
     margin-bottom: auto;
-    color: #CC0000;
 }
 
 h2{
-    font-weight: 400;
-    font-size: 1.5em;
     text-align: center;
-    color: #FFFFFF;
-    margin: auto;
+    color: #ffffff;
 }
 
 h3{
-<<<<<<< HEAD
   font-size: 1.2em;
-    font-weight: 500;
-=======
-    font-size: 1.2em;
     font-weight: 300;
->>>>>>> 3792df4f8350427a03b56497fd7221625dbf7cab
     max-width: 800px;
     text-align: center;
     margin-top: 5px;
     margin-right: auto;
     margin-left: auto;
     margin-bottom: auto;
-<<<<<<< HEAD
     color: #ffffff;
-=======
-    color: #FFFFFF;
->>>>>>> 3792df4f8350427a03b56497fd7221625dbf7cab
 }
 
 h4{
-    font-size: 1em;
-    font-weight: 200;
+  font-size: 1em;
+    font-weight: 500;
     max-width: 800px;
     text-align: center;
     margin-top: 5px;
     margin-right: auto;
     margin-left: auto;
     margin-bottom: auto;
-    color: #FFFFFF;
+    color: #ffffff;
 }
 
 h5{
-    font-size: 1.2em;
+  font-size: 1.2em;
     font-weight: 300;
     max-width: 800px;
     text-align: center;
@@ -74,7 +61,7 @@ h5{
     color: #CC0000;
 }
 
-div.left{
+.left{
     text-align: left;
     width: 60%;
    }
@@ -93,7 +80,7 @@ img.bioImage{
 }
 
 img.bioImage2{
-    width: 10%;
+    width: 5%;
     margin: auto;
     display: block;
 }
@@ -103,13 +90,6 @@ img.bioImage3{
     margin: auto;
     display: block;
 }
-
-img.bioImage4{
-    width: 100%;
-    margin: auto;
-    display: block;
-}
-
 
 p.bioText{
     font-weight: 300;
@@ -146,14 +126,3 @@ li.assignmentLink > a:hover{
     background-color: #FF33FF; 
 }
 
-img.bioImage3{
-   float: left; 
-   width: 32.25%; 
-   margin-right: 1%; 
-   margin-bottom: 0.5em;
-}
-
-.left{
-    text-align: left;
-    width: 60%;
-   }
