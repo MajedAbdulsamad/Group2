@@ -1,5 +1,5 @@
 body{
-    font-family: 'Source Sans Pro', Verdana, Helvetica, Arial, sans-serif;
+    font-family: 'STitillium+Web', Verdana, Helvetica, Arial, sans-serif;
     background-color: #000000
 }
 
@@ -9,12 +9,12 @@ div.title{
 }
 
 h1{
-  color: #CC0000;
+    color: #CC0000;
     font-weight: 600;
     font-size: 2em;
     max-width: 800px;
     text-align: center;
-    margin: 25px, 25px;
+    margin-top: auto;
     margin-right: auto;
     margin-left: auto;
     margin-bottom: auto;
@@ -26,19 +26,28 @@ h2{
 }
 
 h3{
+<<<<<<< HEAD
   font-size: 1.2em;
     font-weight: 500;
+=======
+    font-size: 1.2em;
+    font-weight: 300;
+>>>>>>> 3792df4f8350427a03b56497fd7221625dbf7cab
     max-width: 800px;
     text-align: center;
     margin-top: 5px;
     margin-right: auto;
     margin-left: auto;
     margin-bottom: auto;
+<<<<<<< HEAD
     color: #ffffff;
+=======
+    color: #FFFFFF;
+>>>>>>> 3792df4f8350427a03b56497fd7221625dbf7cab
 }
 
 h4{
-  font-size: 1em;
+    font-size: 1em;
     font-weight: 200;
     max-width: 800px;
     text-align: center;
@@ -46,11 +55,11 @@ h4{
     margin-right: auto;
     margin-left: auto;
     margin-bottom: auto;
-    color: #808080;
+    color: #FFFFFF;
 }
 
 h5{
-  font-size: 1.2em;
+    font-size: 1.2em;
     font-weight: 300;
     max-width: 800px;
     text-align: center;
@@ -61,7 +70,7 @@ h5{
     color: #CC0000;
 }
 
-.left{
+div.left{
     text-align: left;
     width: 60%;
    }
